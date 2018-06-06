@@ -20,4 +20,6 @@ function gcd(first,second){
         console.log("you just entered a wrong input")
     }
 }
-gcd(12,5)
+gcd(16,5)
+gcd(12,144)
+gcd(45,"srirt")
