@@ -20,4 +20,4 @@ function gcd(first,second){
         console.log("you just entered a wrong input")
     }
 }
-gcd(12,144)
+gcd(12,5)
