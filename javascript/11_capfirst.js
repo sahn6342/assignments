@@ -1,3 +1,4 @@
+// 11. Write a JavaScript function to capitalize the first letter of a string.
 function capfirst(str){
     if(typeof str=="string"){
         let temp=str.split("")

@@ -1,3 +1,4 @@
+// 8. Write a JavaScript function to test if a number is a power of 2.
 function powerof2(num){
     if(typeof num== "number"){
         if(num%2==0){

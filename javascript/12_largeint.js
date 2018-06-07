@@ -1,3 +1,4 @@
+// 12. Write a JavaScript program that accept two integers and display the larger.
 function large(first,second){
     if((typeof first==typeof second)&&(typeof first=="number")){
         if(first<second){

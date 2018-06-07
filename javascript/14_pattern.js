@@ -1,3 +1,11 @@
+/*
+14. Write a JavaScript program to construct the following pattern, using a nested for loop.
+*
+* *
+* * *
+* * * *
+* * * * *
+*/
 function pattern(x){
     for(let i=0;i<x;i++){
         let temp=""

@@ -1,3 +1,4 @@
+// 7. Write a JavaScript function to get the greatest common divisor (gcd) of two integers.
 function gcd(first,second){
     if((typeof first==typeof second)&&(typeof first=="number")){
         if(first<second){
